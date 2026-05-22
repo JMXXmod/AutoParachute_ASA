@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "9111D61B480A20ABEAE50C9ED20B779F",
+	"FriendlyName": "Auto Parachute",
+	"Description": "Auto-deploys a parachute while falling, toggleable on or off for safe and controlled gameplay.&cf_ugcID=1455198",
+	"Category": "UGC",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://legacy.curseforge.com/ark-survival-ascended/mods/auto-parachute",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
